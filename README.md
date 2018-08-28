@@ -1,2 +1,2 @@
 # CursoPython_v1
-Ejercicios Básicos en lenguaje Python en Jupyter
+Ejercicios Básicos con lenguaje Python en Jupyter
