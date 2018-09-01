@@ -3,8 +3,8 @@ Ejercicios Básicos con lenguaje Python en Jupyter
 
 Los temas a tocar en este módulo son:
 
-**Python básico
+* **Python básico**
 
-**Numpy básico
+* **Numpy básico**
 
-**Pandas básico
+* **Pandas básico**
