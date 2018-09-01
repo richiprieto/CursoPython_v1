@@ -1,5 +1,5 @@
 # CursoPython_v1
-Ejercicios Básicos con lenguaje Python en Jupyter
+Ejercicios Básicos con lenguaje Python utilizanco Jupyter
 
 Los temas a tocar en este módulo son:
 
